@@ -13,7 +13,7 @@ Interactive Grounded Language Understanding is an ability that develops in young
 <H4 ALIGN="LEFT">Partners inside IGLU and list of institutional partners</H4>
 <CENTER>
 <a href="http://www.chistera.eu/projects/iglu" target="_blank">
-<img alt="Institutions" src="LogosDesInstitution.jpg" width="400" /></a>
+<img alt="Institutions" src="LogosDesInstitution.jpg" width="300" /></a>
 <BR>
 <A HREF="LogosDesInstitution.jpg">List of institutional partners</A> 
 </CENTER>
