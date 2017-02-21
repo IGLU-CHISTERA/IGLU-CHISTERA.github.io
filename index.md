@@ -23,13 +23,25 @@ Interactive Grounded Language Understanding is an ability that develops in young
 The IGLU consortium is composed of 8 research teams, across 6 different 
 countries. The project is a total effort of 325 person-months (PM).
 
-<BR>
-<H5 ALIGN="LEFT">Experts</H5>
+<H4 ALIGN="LEFT">Public Research Open Access Datasets</H4>
+We recorded 3 databases that cover 3 levels of knowledge types and 
+representations giving a gradation in semantic representation and levels of
+ interactions and grounding:<BR>
+A first one for environment representation and learning for a mobile platform
+ (<A HREF="https://github.com/sbrodeur/ros-icreate-bbb"> ROS Create 
+database</A>);<BR>
+A second one for object learning and representation on a Baxter platform (<A
+HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot 
+Interaction (MHRI) database</A>); <BR>
+A third one for dialogue and a richer semantic with the new GuessWhat game  (<A
+HREF="https://guesswhat.ai/">The GuessWhat?! database</A>). 
+
+<H4 ALIGN="LEFT">Experts</H4>
 Deep learning & machine learning - A. Courville (UdeM); <BR>
 Reinforcement learning - O. Pietquin (Lille1), B. Piot (Lille1);<BR>
 Neurosciences and cognitive sciences - J. Rouat (UdeS), R.K. Moore (U. Sheffield);<BR>
 Robotics - M. Lopes (INRIA), P.Y. Oudeyer (INRIA), A.C. Murillo (UNIZAR), J. Civera (UNIZAR);<BR>
 Signal Processing (audition, vision) and machine learning - J. Rouat (UdeS), S. Dupont (U. Mons), G. Salvi (KTH);<BR>
 Human-Machine interaction - S. Dupont (U. Mons)<BR>
-<H5 ALIGN="LEFT">Students</H5>
+<H4 ALIGN="LEFT">Students</H4>
 11 PhD & 3 Msc.A
