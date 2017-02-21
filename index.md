@@ -1,5 +1,5 @@
-<H4 ALIGN="LEFT">Partners inside IGLU</H4>
-<A HREF="LogosDesInstitution.jpg">List of institutional partners</A>
+<a href="http://www.chistera.eu/projects/iglu" target="_blank">
+<img alt="IGLU" src="logoIGLU.jpg" width="304" /></a>
 
 <H4 ALIGN="LEFT">Objectives</H4>
 
@@ -9,3 +9,26 @@ Interactive Grounded Language Understanding is an ability that develops in young
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
 </A>
+
+<H4 ALIGN="LEFT">Partners inside IGLU and list of institutional partners</H4>
+<CENTER>
+<img alt="Institutions" src="LogosDesInstitution.jpg" width="400" />
+<BR>
+<A HREF="LogosDesInstitution.jpg">List of institutional partners</A> 
+</CENTER>
+
+<H4 ALIGN="LEFT">Contributors</H4>
+
+The IGLU consortium is composed of 8 research teams, across 6 different 
+countries. The project is a total effort of 325 person-months (PM).
+
+<BR>
+<H5 ALIGN="LEFT">Experts</H5>
+Deep learning & machine learning - A. Courville (UdeM); <BR>
+Reinforcement learning - O. Pietquin (Lille1), B. Piot (Lille1);<BR>
+Neurosciences and cognitive sciences - J. Rouat (UdeS), R.K. Moore (U. Sheffield);<BR>
+Robotics - M. Lopes (INRIA), P.Y. Oudeyer (INRIA), A.C. Murillo (UNIZAR), J. Civera (UNIZAR);<BR>
+Signal Processing (audition, vision) and machine learning - J. Rouat (UdeS), S. Dupont (U. Mons), G. Salvi (KTH);<BR>
+Human-Machine interaction - S. Dupont (U. Mons)<BR>
+<H5 ALIGN="LEFT">Students</H5>
+11 PhD & 3 Msc.A
