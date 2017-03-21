@@ -41,6 +41,9 @@ $on-laptop:        800px;
 h1.page-heading {display: none;}
 header a.site-title:before {
     content: url('../logoIGLU.jpg');
+    display: block;
+    width:  300px;
+
 }
 header a.site-title {
   content: "";
