@@ -15,33 +15,47 @@ Interactive Grounded Language Understanding is an ability that develops in young
 <a href="http://www.chistera.eu/projects/iglu" target="_blank">
 <img alt="Institutions" src="LogosDesInstitution.jpg" width="300" /></a>
 <BR>
-<A HREF="LogosDesInstitution.jpg">List of institutional partners</A> 
+<A HREF="LogosDesInstitution.jpg">List of institutional partners</A>
 </CENTER>
 
 <H4 ALIGN="LEFT">Contributors</H4>
 
-The IGLU consortium is composed of 8 research teams, across 6 different 
+The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
 <H4 ALIGN="LEFT">Public Research Open Access Datasets</H4>
-We recorded 3 databases that cover 3 levels of knowledge types and 
+We recorded 3 databases that cover 3 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
 A first one for environment representation and learning for a mobile platform
- (<A HREF="https://github.com/sbrodeur/ros-icreate-bbb"> ROS Create 
+ (<A HREF="https://github.com/sbrodeur/ros-icreate-bbb"> ROS Create
 database</A>);<BR>
-A second one for object learning and representation on a Baxter platform (<A
-HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot 
-Interaction (MHRI) database</A>); <BR>
-A third one for dialogue and a richer semantic with the new GuessWhat game  (<A
-HREF="https://guesswhat.ai/">The GuessWhat?! database</A>). 
+A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
+A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
 <H4 ALIGN="LEFT">Experts</H4>
-Deep learning & machine learning - A. Courville (UdeM); <BR>
-Reinforcement learning - O. Pietquin (Lille1), B. Piot (Lille1);<BR>
-Neurosciences and cognitive sciences - J. Rouat (UdeS), R.K. Moore (U. Sheffield);<BR>
-Robotics - M. Lopes (INRIA), P.Y. Oudeyer (INRIA), A.C. Murillo (UNIZAR), J. Civera (UNIZAR);<BR>
-Signal Processing (audition, vision) and machine learning - J. Rouat (UdeS), S. Dupont (U. Mons), G. Salvi (KTH);<BR>
-Human-Machine interaction - S. Dupont (U. Mons)<BR>
+- Deep learning & machine learning - **A. Courville** (UdeM)
+- Reinforcement learning - **O. Pietquin** (Lille1), **B. Piot** (Lille1)
+- Neurosciences and cognitive sciences - **J. Rouat** (UdeS), **R.K. Moore** (U. Sheffield)
+- Robotics - **M. Lopes** (INRIA), **P.Y. Oudeyer** (INRIA), **A.C. Murillo** (UNIZAR), **J. Civera** (UNIZAR)
+- Signal Processing (audition, vision) and machine learning - **J. Rouat** (UdeS), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
+- Human-Machine interaction - **S. Dupont** (U. Mons)
+
 <H4 ALIGN="LEFT">Students</H4>
 11 PhD & 3 Msc.A
+
+<h4 align="left">Publications</h4>
+- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016. http://www.filmnips.com/accepted-papers/ and
+http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf
+
+- Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
+
+- Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2017.
+
+- Julien Pérolat, Florian Strub, Bilal Piot, Olivier Pietquin, **Learning Nash Equilibrium for General-Sum Markov Games from Batch Data**. arXiv preprint arXiv:1606.08718, Accepted at the International Conference on Artificial Intelligence and Statistics 2017 (AIStat 2017)
+
+- Harm de Vries, Florian Strub, Sarath Chandar, Olivier Pietquin, Hugo Larochelle, Aaron Courville, **GuessWhat?! Visual object discovery through multi-modal dialogue**. arXiv preprint arXiv:1611.08481, Under review at the Conference on  Computer Vision and Pattern recognition  2017 (CVPR 2017)
+
+- Wood, S.U.; Rouat, J.; Dupont, S. & Pironkov, **Blind Speech Separation and Enhancement with GCC-NMF**. IEEE Transactions on Audio, Speech and Language Processing, pp. 3329-3341, 2017
+
+- A. Dhaka and G. Salvi, **Semi-Supervised Learning with Sparse Autoencoders in Phone Classification**. (submitted to INTERSPEECH 2017).
