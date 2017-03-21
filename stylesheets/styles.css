@@ -322,3 +322,11 @@ footer {
     color:#444;
   }
 }
+
+h1.page-heading {display: none;}
+header a.site-title:before {
+    content: url('../logoIGLU.jpg');
+}
+header a.site-title {
+  content: "";
+}
