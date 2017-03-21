@@ -2,7 +2,8 @@ title: Iglu-chistera.GitHub.io
 description: "Project IGLU-CHISTERA Public Website "
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-minima
+theme: minima
 
 gems:
   - jekyll-mentions
+  - minima
