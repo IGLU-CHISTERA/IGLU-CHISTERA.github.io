@@ -39,10 +39,10 @@ A second one for object learning and representation on a Baxter platform (<A HRE
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
 ## Experts
-- Deep learning & machine learning - **A. Courville** (UdeM)
-- Reinforcement learning - **O. Pietquin** (Lille1), **B. Piot** (Lille1)
-- Neurosciences and cognitive sciences - **J. Rouat** (UdeS), **R.K. Moore** (U. Sheffield)
-- Robotics - **M. Lopes** (INRIA), **P.Y. Oudeyer** (INRIA), **A.C. Murillo** (UNIZAR), **J. Civera** (UNIZAR)
+- Deep learning & machine learning - **A. Courville** (MILA, UdeM), https://mila.umontreal.ca/
+- Reinforcement learning - **O. Pietquin, B. Piot** (CRIStAL, Lille1), http://www.univ-lille1.fr/
+- Neurosciences and cognitive sciences - **J. Rouat** (NECOTIS, UdeS), https://www.gel.usherbrooke.ca/necotis/, **R.K. Moore** (U. Sheffield)
+- Robotics - **P.Y. Oudeyer** (INRIA), **A.C. Murillo** (UNIZAR), **J. Civera** (UNIZAR)
 - Signal Processing (audition, vision) and machine learning - **J. Rouat** (UdeS), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
 - Human-Machine interaction - **S. Dupont** (U. Mons)
 
