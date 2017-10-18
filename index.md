@@ -65,6 +65,8 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - Julien Pérolat, Florian Strub, Bilal Piot, Olivier Pietquin, **Learning Nash Equilibrium for General-Sum Markov Games from Batch Data**. arXiv preprint arXiv:1606.08718, Accepted at the International Conference on Artificial Intelligence and Statistics 2017 (AIStat 2017)
 
+- Brodeur, S. & Rouat, J., **Optimality of Inference in Hierarchical Coding for Distributed Object-Based Representations**, 15th. IEEE Canadian Workshop on Information Theory (CIWT), DOI:10.1109/CWIT.2017.7994828, <A HREF="https://www.gel.usherbrooke.ca/rouat/publications/CWIT2017_IEEE_BrodeurRouat.pdf"> [**pdf**]  </A>
+
 - Harm de Vries, Florian Strub, Sarath Chandar, Olivier Pietquin, Hugo Larochelle, Aaron Courville, **GuessWhat?! Visual object discovery through multi-modal dialogue**. arXiv preprint arXiv:1611.08481, Accepted at the Conference on Computer Vision and Pattern recognition  2017 (CVPR 2017) - Spotlight
 
 - Wood, S.U.; Rouat, J.; Dupont, S. & Pironkov, **Blind Speech Separation and Enhancement with GCC-NMF**. IEEE Transactions on Audio, Speech and Language Processing, pp. 3329-3341, 2017, DOI:10.1109/TASLP.2017.2656805, <A HREF="https://www.gel.usherbrooke.ca/rouat/publications/IEEE_ACMTrGCCNMFWoodRouat2017.pdf"> [**pdf**]  </A>
