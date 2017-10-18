@@ -69,6 +69,6 @@ http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf
 
 - H. de Vries\* , F. Strub\* , J. Mary, H. Larochelle, O. Pietquin, A. Courville, **Modulating Early visual Processing by language.** arXiv preprint arXiv:1707.00683, Accepted at the Conference on Neural Information Processing System 2017 (NIPS 2017) - Spotlight
 
-- E. Perez, H. Vries, **F. Strub**, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
+- E. Perez, H. Vries, F. Strub, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
 
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
