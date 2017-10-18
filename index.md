@@ -10,10 +10,14 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
  <A HREF="https://www.gel.usherbrooke.ca/rouat/">  https://www.gel.usherbrooke.ca/rouat/</A>.
 
 
-## Events under the sponsorship of IGLU
+## Future events under the sponsorship of IGLU
+<A HREF="https://nips2017vigil.github.io/"> First Visually-Grounded Interaction and Language (ViGIL), NIPS 2017 Workshop
+</A>, Long Beach, California, USA, Friday, December 8th
+
+## Past events under the sponsorship of IGLU
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
-</A>
+</A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th
 
 ## Partners inside IGLU and list of institutional partners
 <CENTER>
@@ -40,10 +44,10 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ## Experts
 - Deep learning & machine learning - **A. Courville** (MILA, UdeM), https://mila.umontreal.ca/
-- Reinforcement learning - **O. Pietquin, B. Piot** (CRIStAL, Lille1), http://www.univ-lille1.fr/
-- Neurosciences and cognitive sciences - **J. Rouat** (NECOTIS, UdeS), https://www.gel.usherbrooke.ca/necotis/, **R.K. Moore** (U. Sheffield)
+- Reinforcement learning - **O. Pietquin, B. Piot** (CRIStAL, Lille1 & DeepMind), http://www.univ-lille1.fr/
+- Neurosciences and cognitive sciences - **J. Rouat** (NECOTIS, UdeS & UdeM), https://www.gel.usherbrooke.ca/necotis/, **R.K. Moore** (U. Sheffield)
 - Robotics - **P.Y. Oudeyer** (INRIA), **A.C. Murillo** (UNIZAR), **J. Civera** (UNIZAR)
-- Signal Processing (audition, vision) and machine learning - **J. Rouat** (UdeS), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
+- Signal Processing (audition, vision) and machine learning - **J. Rouat** (UdeS & UdeM), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
 - Human-Machine interaction - **S. Dupont** (U. Mons)
 
 ## Students
@@ -72,3 +76,9 @@ http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf
 - E. Perez, H. Vries, F. Strub, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
 
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
+
+## Media
+
+- 12 October 2017, <A HREF="http://www.lapresse.ca/techno/201710/12/01-5139764-intelligence-artificielle-ce-qui-mijote-dans-les-labos.php"> article in "La Presse" </A>, a French journal from Montréal 
+
+- October 2017, <A HREF="https://50ans.inria.fr/en/inria-celebrates-its-jubilee/"> French INRIA jubilee </A>, France (in preparation)
