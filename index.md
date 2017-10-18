@@ -32,7 +32,7 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
 The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
-## Public Research Open Access Datasets
+## Public Open Access Datasets and software
 We recorded 3 databases that cover 3 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
@@ -41,6 +41,9 @@ A first one for environment representation and learning for a mobile platform
 database</A>);<BR>
 A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
+
+Software to ease the audio interaction with an intelligent agent in the context of a multimodal scene to ground language with the environment:<BR>
+<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A>
 
 ## Experts
 - Deep learning & machine learning - **A. Courville** (MILA, UdeM), https://mila.umontreal.ca/
@@ -54,8 +57,7 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 11 PhD & 3 Msc.A
 
 ## Publications
-- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016. http://www.filmnips.com/accepted-papers/ and
-http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf
+- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016, http://www.filmnips.com/accepted-papers/,<A HREF="http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf"> [**pdf**] </A>
 
 - Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
 
@@ -65,9 +67,15 @@ http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf
 
 - Harm de Vries, Florian Strub, Sarath Chandar, Olivier Pietquin, Hugo Larochelle, Aaron Courville, **GuessWhat?! Visual object discovery through multi-modal dialogue**. arXiv preprint arXiv:1611.08481, Accepted at the Conference on Computer Vision and Pattern recognition  2017 (CVPR 2017) - Spotlight
 
-- Wood, S.U.; Rouat, J.; Dupont, S. & Pironkov, **Blind Speech Separation and Enhancement with GCC-NMF**. IEEE Transactions on Audio, Speech and Language Processing, pp. 3329-3341, 2017
+- Wood, S.U.; Rouat, J.; Dupont, S. & Pironkov, **Blind Speech Separation and Enhancement with GCC-NMF**. IEEE Transactions on Audio, Speech and Language Processing, pp. 3329-3341, 2017, DOI:10.1109/TASLP.2017.2656805, <A HREF="https://www.gel.usherbrooke.ca/rouat/publications/IEEE_ACMTrGCCNMFWoodRouat2017.pdf"> [**pdf**]  </A>
 
 - A. Dhaka and G. Salvi, **Semi-Supervised Learning with Sparse Autoencoders in Phone Classification**. (submitted to INTERSPEECH 2017).
+
+- S. U. N. Wood and J. Rouat, **Real-time speech enhancement with GCC- NMF**. Proc. Interspeech 2017, 2665-2669, DOI: 10.21437/Interspeech.2017-1458.
+
+- S. U. N. Wood and J. Rouat, **Real-time speech enhancement with GCC-NMF: Demonstration on the Raspberry Pi and NVIDIA Jetson**. Proc. Interspeech 2017, 2048-2049, <A HREF="http://www.isca-speech.org/archive/Interspeech_2017/pdfs/2039.PDF"> [**pdf**]  </A>
+
+- S. U. N. Wood and J. Rouat, **Towards GCC-NMF speech enhancement for hearing assistive devices: Reducing latency with asymmetric windows** 1st Int. Conference on Challenges in Hearing Assistive Technology (CHAT-17), Stockholm, Sweden, August 19, 2017, <A HREF="http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_wood.pdf"> [**pdf**]  </A>
 
 - F. Strub, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin, **End-to-end optimization of goal-driven and visually grounded dialogue systems.**. arXiv preprint arXiv:1703.05423, Accepted at the International Joint Conference in Artificial Intelligence 2017 (IJCAI 2017) - Oral presentation.
 
