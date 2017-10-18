@@ -81,7 +81,9 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - F. Strub, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin, **End-to-end optimization of goal-driven and visually grounded dialogue systems.**. arXiv preprint arXiv:1703.05423, Accepted at the International Joint Conference in Artificial Intelligence 2017 (IJCAI 2017) - Oral presentation.
 
-- H. de Vries\* , F. Strub\* , J. Mary, H. Larochelle, O. Pietquin, A. Courville, **Modulating Early visual Processing by language.** arXiv preprint arXiv:1707.00683, Accepted at the Conference on Neural Information Processing System 2017 (NIPS 2017) - Spotlight
+- Brodeur, S., Celotti, L., Rouat, J., **Proposal of a Generative Model of Event-based Representations for Grounded Language Understanding**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 68-72, DOI: 10.21437/GLU.2017-14.
+
+- H. de Vries , F. Strub , J. Mary, H. Larochelle, O. Pietquin, A. Courville, **Modulating Early visual Processing by language.** arXiv preprint arXiv:1707.00683, Accepted at the Conference on Neural Information Processing System 2017 (NIPS 2017) - Spotlight
 
 - E. Perez, H. Vries, F. Strub, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
 
