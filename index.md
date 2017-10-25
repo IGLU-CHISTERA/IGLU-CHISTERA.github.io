@@ -73,8 +73,6 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - Wood, S.U.; Rouat, J.; Dupont, S. & Pironkov, **Blind Speech Separation and Enhancement with GCC-NMF**. IEEE Transactions on Audio, Speech and Language Processing, pp. 3329-3341, 2017, DOI:10.1109/TASLP.2017.2656805, <A HREF="https://www.gel.usherbrooke.ca/rouat/publications/IEEE_ACMTrGCCNMFWoodRouat2017.pdf"> [**pdf**]  </A>
 
-- A. Dhaka and G. Salvi, **Semi-Supervised Learning with Sparse Autoencoders in Phone Classification**. (submitted to INTERSPEECH 2017).
-
 - S. U. N. Wood and J. Rouat, **Real-time speech enhancement with GCC- NMF**. Proc. Interspeech 2017, 2665-2669, DOI: 10.21437/Interspeech.2017-1458.
 
 - S. U. N. Wood and J. Rouat, **Real-time speech enhancement with GCC-NMF: Demonstration on the Raspberry Pi and NVIDIA Jetson**. Proc. Interspeech 2017, 2048-2049, <A HREF="http://www.isca-speech.org/archive/Interspeech_2017/pdfs/2039.PDF"> [**pdf**]  </A>
