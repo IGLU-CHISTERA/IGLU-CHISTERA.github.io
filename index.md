@@ -81,13 +81,13 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - F. Strub, H. de Vries, J. Mary, B. Piot, A. Courville, O. Pietquin, **End-to-end optimization of goal-driven and visually grounded dialogue systems.**. arXiv preprint arXiv:1703.05423, Accepted at the International Joint Conference in Artificial Intelligence 2017 (IJCAI 2017) - Oral presentation.
 
-- Kumar Dhaka, A., Salvi, G., [**Sparse Autoencoder Based Semi-Supervised Learning for Phone Classification with Limited Annotations**](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_5.html), Proc. GLU 2017 International Workshop on Grounding Language Understanding, 22-26, DOI: 10.21437/GLU.2017-5.
+- Kumar Dhaka, A., Salvi, G., **Sparse Autoencoder Based Semi-Supervised Learning for Phone Classification with Limited Annotations**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 22-26, [DOI: 10.21437/GLU.2017-5](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_5.html).
 
-- Fahlström Myrman, A., Salvi. G., [**Partitioning of Posteriorgrams Using Siamese Models for Unsupervised Acoustic Modelling**](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_6.html), Proc. GLU 2017 International Workshop on Grounding Language Understanding, 27-31, DOI: 10.21437/GLU.2017-6.
+- Fahlström Myrman, A., Salvi. G., **Partitioning of Posteriorgrams Using Siamese Models for Unsupervised Acoustic Modelling**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 27-31, [DOI: 10.21437/GLU.2017-6](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_6.html).
 
-- Stefanov, K., Beskow, J., Salvi, G., [**Vision-based Active Speaker Detection in Multiparty Interaction**](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_11.html), Proc. GLU 2017 International Workshop on Grounding Language Understanding, 47-51, DOI: 10.21437/GLU.2017-10.
+- Stefanov, K., Beskow, J., Salvi, G., **Vision-based Active Speaker Detection in Multiparty Interaction**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 47-51, [DOI: 10.21437/GLU.2017-10](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_11.html).
 
-- Saponaro, G., Jamone, L., Bernardino, A., Salvi, G., [**Interactive Robot Learning of Gestures, Language and Affordances**](DOI: 10.21437/GLU.2017-17), Proc. GLU 2017 International Workshop on Grounding Language Understanding, 83-87, DOI: 10.21437/GLU.2017-17.
+- Saponaro, G., Jamone, L., Bernardino, A., Salvi, G., **Interactive Robot Learning of Gestures, Language and Affordances**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 83-87, [DOI: 10.21437/GLU.2017-17](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_20.html).
 
 - Brodeur, S., Celotti, L., Rouat, J., **Proposal of a Generative Model of Event-based Representations for Grounded Language Understanding**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, 68-72, DOI: 10.21437/GLU.2017-14.
 
