@@ -57,10 +57,12 @@ Software to ease the audio interaction with an intelligent agent in the context 
 11 PhD & 3 Msc.A
 
 ## Publications
-- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016, http://www.filmnips.com/accepted-papers/,<A HREF="http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf"> [**pdf**] </A>
 
-- Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
+### 2018
 
+- E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
+
+### 2017
 - Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2017.
 
 - Julien Pérolat, Florian Strub, Bilal Piot, Olivier Pietquin, **Learning Nash Equilibrium for General-Sum Markov Games from Batch Data**. arXiv preprint arXiv:1606.08718, Accepted at the International Conference on Artificial Intelligence and Statistics 2017 (AIStat 2017)
@@ -87,7 +89,15 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - E. Perez, H. Vries, F. Strub, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
 
-- E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
+### 2016
+
+- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016, http://www.filmnips.com/accepted-papers/,<A HREF="http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf"> [**pdf**] </A>
+
+- Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
+
+- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016, http://www.filmnips.com/accepted-papers/,<A HREF="http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf"> [**pdf**] </A>
+
+- Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
 
 ## Media
 
