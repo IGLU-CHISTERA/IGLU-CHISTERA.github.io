@@ -12,12 +12,14 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
 
 ## Future events under the sponsorship of IGLU
 <A HREF="https://nips2017vigil.github.io/"> First Visually-Grounded Interaction and Language (ViGIL), NIPS 2017 Workshop
-</A>, Long Beach, California, USA, Friday, December 8th; shared sponsorship with facebook research and google DeepMind.
+</A>, Long Beach, California, USA, Friday, December 8th <br>
+Shared sponsorship with facebook research and google DeepMind.
 
 ## Past events under the sponsorship of IGLU
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
-</A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th; shared sponsorship with ISCA.
+</A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th <br>
+Shared sponsorship with ISCA.
 
 ## Partners inside IGLU and list of institutional partners
 <CENTER>
