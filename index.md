@@ -62,6 +62,8 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 ### 2018
 
+- K. Stefanov, J. Beskow, G. Salvi, **Self-Supervised Vision-Based Detection of the Active Speaker as a Prerequisite for Socially-Aware Language Acquisition**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
+- G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others' Actions**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
 
 ### 2017
