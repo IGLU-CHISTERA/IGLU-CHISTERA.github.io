@@ -105,9 +105,6 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
 
-- Pablo, A., Mollard, Y., Golemo, F., Murillo, A. C., Lopes, M., & Civera, J. (2016, December). **A Multimodal Human-Robot Interaction Dataset**. In Future of Interactive Learning Machines Workshop, NIPS 2016. Barcelona, Spain. December 2016, http://www.filmnips.com/accepted-papers/,<A HREF="http://www.filmnips.com/wp-content/uploads/2016/11/FILM-NIPS2016_paper_7.pdf"> [**pdf**] </A>
-
-- Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
 
 ## Media
 
