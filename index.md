@@ -89,13 +89,20 @@ Software to ease the audio interaction with an intelligent agent in the context 
 
 - Fahlström Myrman, A., Salvi. G., **Partitioning of Posteriorgrams Using Siamese Models for Unsupervised Acoustic Modelling**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, Stockholm, Sweden, 27-31, [DOI: 10.21437/GLU.2017-6](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_6.html).
 
+- Delbrouck, J., Dupont, S., Seddati, O., **Visually Grounded Word Embeddings and Richer Visual Features for Improving Multimodal Neural Machine Translation**. Proc. GLU 2017 International Workshop on Grounding Language Understanding, 62-67, [DOI: 10.21437/GLU.2017-13](http://www.isca-speech.org/archive/GLU_2017/pdfs/GLU2017_paper_15.pdf)
+
 - Stefanov, K., Beskow, J., Salvi, G., **Vision-based Active Speaker Detection in Multiparty Interaction**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, Stockholm, Sweden, 47-51, [DOI: 10.21437/GLU.2017-10](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_11.html).
 
 - Saponaro, G., Jamone, L., Bernardino, A., Salvi, G., **Interactive Robot Learning of Gestures, Language and Affordances**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, Stockholm, Sweden, 83-87, [DOI: 10.21437/GLU.2017-17](http://www.isca-speech.org/archive/GLU_2017/abstracts/GLU2017_paper_20.html).
 
 - Brodeur, S., Celotti, L., Rouat, J., **Proposal of a Generative Model of Event-based Representations for Grounded Language Understanding**, Proc. GLU 2017 International Workshop on Grounding Language Understanding, Stockholm, Sweden, 68-72, DOI: 10.21437/GLU.2017-14.
 
+
+- Delbrouck, J., Dupont, S., **An empirical study on the effectiveness of images in Multimodal Neural Machine Translation**, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing 
+
 - H. de Vries , F. Strub , J. Mary, H. Larochelle, O. Pietquin, A. Courville, **Modulating Early visual Processing by language.** arXiv preprint arXiv:1707.00683, Accepted at the Conference on Neural Information Processing System 2017 (NIPS 2017) - Spotlight
+
+- Delbrouck, J., Dupont, S., **Multimodal Compact Bilinear Pooling for Multimodal Neural Machine Translation**, arXiv preprint arXiv:1707.03017
 
 - E. Perez, H. Vries, F. Strub, V. Dumoulin, A. Courville, **Learning Visual Reasoning Without Strong Priors.** arXiv preprint arXiv:1707.03017, Accepted at ICML Speech and Language Processing Workshop 2017.
 
