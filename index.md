@@ -46,9 +46,9 @@ A second one for object learning and representation on a Baxter platform (<A HRE
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
 ### Softwares
-<A HREF="https://home-platform.github.io"> HoME: a Household Multimodal Environment <A> , has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset <A>.
+<A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment<A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset <A>.
 
-<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A> is a software that eases the audio interaction through the separation and enhancement of sound sources.<BR>
+<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
 
 
 ## Experts
