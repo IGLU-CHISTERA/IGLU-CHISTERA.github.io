@@ -35,7 +35,9 @@ The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
 # Public Open Access Datasets and Softwares
+
 ### Databases
+
 We recorded 3 databases that cover 3 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
@@ -46,12 +48,14 @@ A second one for object learning and representation on a Baxter platform (<A HRE
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
 ### Softwares
-<A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment<A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset <A>.
 
-<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
+<A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment </A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset </A>.
+
+<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement </A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
 
 
 ## Experts
+
 - Deep learning & machine learning - **A. Courville** (MILA, UdeM), https://mila.umontreal.ca/
 - Reinforcement learning - **O. Pietquin, B. Piot** (CRIStAL, Lille1 & DeepMind), http://www.univ-lille1.fr/
 - Neurosciences and cognitive sciences - **J. Rouat** (NECOTIS, UdeS & UdeM), https://www.gel.usherbrooke.ca/necotis/, **R.K. Moore** (U. Sheffield)
