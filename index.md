@@ -1,7 +1,7 @@
 <!-- <a href="http://www.chistera.eu/projects/iglu" target="_blank"> -->
 <!-- <img alt="IGLU" src="logoIGLU.jpg" width="304" /></a> -->
 
-## Objectives
+# Objectives
 
 Interactive Grounded Language Understanding is an ability that develops in young children through joint interaction with their caretakers and their physical environment. At this level, human language understanding could be referred as interpreting and expressing semantic concepts (e.g. objects, actions and relations) through what can be perceived (or inferred) from current context in the environment. Previous work in the field of artificial intelligence has failed to address the acquisition of such perceptually-grounded knowledge in virtual agents (avatars), mainly because of the lack of physical embodiment (ability to interact physically) and dialogue, communication skills (ability to interact verbally). We believe that robotic agents are more appropriate for this task, and that interaction is a so important aspect of human language learning and understanding that pragmatic knowledge (identifying or conveying intention) must be present to complement semantic knowledge. Through a developmental approach where knowledge grows in complexity while driven by multimodal experience and language interaction with a human, we propose an agent that will incorporate models of dialogues, human emotions and intentions as part of its decision-making process. This will lead anticipation and reaction not only based on its internal state (own goal and intention, perception of the environment), but also on the perceived state and intention of the human interactant. This will be possible through the development of advanced machine learning methods (combining developmental, deep and reinforcement learning) to handle large-scale multimodal inputs, besides leveraging state-of-the-art technological components involved in a language-based dialog system available within the consortium. Evaluations of learned skills and knowledge will be performed using an integrated architecture in a culinary use-case, and novel databases enabling research in grounded human language understanding will be released. IGLU will gather an interdisciplinary consortium composed of committed and experienced researchers in machine learning, neurosciences and cognitive sciences, developmental robotics, speech and language technologies, and multimodal/multimedia signal processing. We expect to have key impacts in the development of more interactive and adaptable systems sharing our environment in everyday life.
 
@@ -10,18 +10,18 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
  <A HREF="https://www.gel.usherbrooke.ca/rouat/">  https://www.gel.usherbrooke.ca/rouat/</A>.
 
 
-## Future events under the sponsorship of IGLU
+# Future events under the sponsorship of IGLU
 <A HREF="https://nips2017vigil.github.io/"> First Visually-Grounded Interaction and Language (ViGIL), NIPS 2017 Workshop
 </A>, Long Beach, California, USA, Friday, December 8th <br>
 Shared sponsorship with facebook research and google DeepMind.
 
-## Past events under the sponsorship of IGLU
+# Past events under the sponsorship of IGLU
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
 </A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th <br>
 Shared sponsorship with ISCA.
 
-## Partners inside IGLU and list of institutional partners
+# Partners inside IGLU and list of institutional partners
 <CENTER>
 <a href="http://www.chistera.eu/projects/iglu" target="_blank">
 <img alt="Institutions" src="LogosDesInstitution.jpg" width="300" /></a>
@@ -29,12 +29,13 @@ Shared sponsorship with ISCA.
 <A HREF="LogosDesInstitution.jpg">List of institutional partners</A>
 </CENTER>
 
-## Contributors
+# Contributors
 
 The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
-## Public Open Access Datasets and software
+# Public Open Access Datasets and Softwares
+### Databases
 We recorded 3 databases that cover 3 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
@@ -44,8 +45,11 @@ database</A>);<BR>
 A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
-Software to ease the audio interaction with an intelligent agent in the context of a multimodal scene to ground language with the environment:<BR>
-<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A>
+### Softwares
+<A HREF="https://home-platform.github.io"> HoME: a Household Multimodal Environment <A> , has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset <A>.
+
+<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement <A> is a software that eases the audio interaction through the separation and enhancement of sound sources.<BR>
+
 
 ## Experts
 - Deep learning & machine learning - **A. Courville** (MILA, UdeM), https://mila.umontreal.ca/
@@ -58,7 +62,7 @@ Software to ease the audio interaction with an intelligent agent in the context 
 ## Students
 11 PhD & 3 Msc.A
 
-## Publications
+# Publications
 
 ### 2018
 
