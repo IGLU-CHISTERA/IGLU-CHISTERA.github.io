@@ -42,8 +42,8 @@ We recorded 3 databases that cover 3 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
 A first one for environment representation and learning for a mobile platform
- (<A HREF="https://github.com/sbrodeur/ros-icreate-bbb"> ROS Create
-database</A>);<BR>
+ (<A HREF="https://ieee-dataport.org/open-access/create-multimodal-dataset-unsupervised-learning-and-generative-modeling-sensory-data"> ROS Create
+database</A>, <A HREF="https://arxiv.org/abs/1801.10214"> Documentation on arXiv </A>);<BR>
 A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
