@@ -123,6 +123,8 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ## Media
 
+- 5 March 2018, <A HREF="https://www.usherbrooke.ca/genie/accueil/nouvelles/nouvelles-details/article/36916/"> article in "Les nouvelles" </A>, a French publication from Université de Sherbrooke
+
 - 12 October 2017, <A HREF="http://www.lapresse.ca/techno/201710/12/01-5139764-intelligence-artificielle-ce-qui-mijote-dans-les-labos.php"> article in "La Presse" </A>, a French journal from Montréal 
 
 - October 2017, <A HREF="https://50ans.inria.fr/en/inria-celebrates-its-jubilee/"> French INRIA jubilee </A>, France (in preparation)
