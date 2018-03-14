@@ -70,6 +70,8 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ### 2018
 
+- Brodeur, S.; Carrier, S.; Rouat, J., **CREATE: Multimodal Dataset for Unsupervised Learning and Generative Modeling of Sensory Data from a Mobile Robot**, IEEE Dataport, 10.21227/H2M94J, 2018
+- Brodeur, S.; Carrier, S.; Rouat, J., **CREATE: Multimodal Dataset for Unsupervised Learning, Generative Modeling and Prediction of Sensory Data from a Mobile Robot in Indoor Environments**, CoRR, arXiv:1801.10214v1 [cs.RO], 2018
 - K. Stefanov, J. Beskow, G. Salvi, **Self-Supervised Vision-Based Detection of the Active Speaker as a Prerequisite for Socially-Aware Language Acquisition**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
 - G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others' Actions**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
