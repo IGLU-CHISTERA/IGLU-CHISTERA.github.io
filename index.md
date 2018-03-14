@@ -77,7 +77,9 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
 
 ### 2017
-- Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, accepted at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2017.
+- Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141.
+
+- Pablo Azagra, Javier Civera, and Ana C. Murillo. **Finding Regions of Interest from Multimodal Human-Robot Interactions**, Proc. GLU 2017 International Workshop on Grounding Language Understanding. 2017.
 
 - Julien Pérolat, Florian Strub, Bilal Piot, Olivier Pietquin, **Learning Nash Equilibrium for General-Sum Markov Games from Batch Data**. arXiv preprint arXiv:1606.08718, Accepted at the International Conference on Artificial Intelligence and Statistics 2017 (AIStat 2017)
 
