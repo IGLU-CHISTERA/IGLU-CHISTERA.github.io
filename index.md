@@ -11,11 +11,12 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
 
 
 # Future events under the sponsorship of IGLU
+Workshop on Multimodal Interactive Learning in Robotics, submitted to the IROS 2018 organization.
+
+# Past events under the sponsorship of IGLU
 <A HREF="https://nips2017vigil.github.io/"> First Visually-Grounded Interaction and Language (ViGIL), NIPS 2017 Workshop
 </A>, Long Beach, California, USA, Friday, December 8th <br>
 Shared sponsorship with facebook research and google DeepMind.
-
-# Past events under the sponsorship of IGLU
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
 </A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th <br>
@@ -28,6 +29,9 @@ Shared sponsorship with ISCA.
 <BR>
 <A HREF="LogosDesInstitution.jpg">List of institutional partners</A>
 </CENTER>
+
+Partnership with
+<a href="https://devine.gel.usherbrooke.ca/" target="_blank"> DEVINE </a> for a final integration on a humanoid robot.
 
 # Contributors
 
