@@ -11,15 +11,18 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
 
 
 # Future events under the sponsorship of IGLU
-Workshop on Multimodal Interactive Learning in Robotics, submitted to the IROS 2018 organization.
+Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018 (Submitted to the NIPS organization, waiting for the answer)
 
 # Past events under the sponsorship of IGLU
+<A HREF="https://chistera-hlu.sciencesconf.org"> First Master Class on Human Language Understanding in the framework of the CHIST-ERA HLU call </A>, Paris, April 10-11th, 2018 <br>
+Shared sponsorship with CHIST-ERA, M2CR, ReGROUND, ATLANTIS.
+
 <A HREF="https://nips2017vigil.github.io/"> First Visually-Grounded Interaction and Language (ViGIL), NIPS 2017 Workshop
-</A>, Long Beach, California, USA, Friday, December 8th <br>
+</A>, Long Beach, California, USA, Friday, December 8th, 2017 <br>
 Shared sponsorship with facebook research and google DeepMind.
 
 <A HREF="http://www.speech.kth.se/glu2017/">First International Workshop on Grounding Language Understanding, Satellite of Interspeech 2017
-</A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th <br>
+</A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th, 2017 <br>
 Shared sponsorship with ISCA.
 
 # Partners inside IGLU and list of institutional partners
@@ -74,13 +77,21 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ### 2018
 
+- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
+
 - Brodeur, S.; Carrier, S.; Rouat, J., **CREATE: Multimodal Dataset for Unsupervised Learning and Generative Modeling of Sensory Data from a Mobile Robot**, IEEE Dataport, 10.21227/H2M94J, 2018
+
 - Brodeur, S.; Carrier, S.; Rouat, J., **CREATE: Multimodal Dataset for Unsupervised Learning, Generative Modeling and Prediction of Sensory Data from a Mobile Robot in Indoor Environments**, CoRR, arXiv:1801.10214v1 [cs.RO], 2018
+
 - K. Stefanov, J. Beskow, G. Salvi, **Self-Supervised Vision-Based Detection of the Active Speaker as a Prerequisite for Socially-Aware Language Acquisition**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
+
 - G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others' Actions**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
+
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
 
 ### 2017
+- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A. **HoME: a Household Multimodal Environment**, NIPS 2017's Visually-Grounded Interaction and Language Workshop, 2017
+
 - Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141.
 
 - Pablo Azagra, Javier Civera, and Ana C. Murillo. **Finding Regions of Interest from Multimodal Human-Robot Interactions**, Proc. GLU 2017 International Workshop on Grounding Language Understanding. 2017.
