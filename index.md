@@ -60,6 +60,12 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 <A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement </A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
 
+### Demonstrations and Applications
+
+Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/related-results-and-publications"> Demonstration on a Baxter Robot </A> (by UNIZAR).
+
+Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devine.gel.usherbrooke.ca/"> DEVINE </A>).
+
 
 ## Experts
 
