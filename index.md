@@ -41,7 +41,7 @@ Partnership with
 The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
-# Public Open Access Datasets and Softwares
+# Public Open Access Datasets, Softwares and Demonstrations
 
 ### Databases
 
