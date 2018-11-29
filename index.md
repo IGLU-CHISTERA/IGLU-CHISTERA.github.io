@@ -62,7 +62,7 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ### Demonstrations and Applications
 
-Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/related-results-and-publications"> Demonstration on a Baxter Robot </A> (by UNIZAR).
+Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
 
 Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devine.gel.usherbrooke.ca/"> DEVINE </A>).
 
