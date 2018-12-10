@@ -102,9 +102,9 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 ### 2017
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A. **HoME: a Household Multimodal Environment**, NIPS 2017's Visually-Grounded Interaction and Language Workshop, 2017
 
-- Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141.
+- Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141. <A HREF="http://webdiis.unizar.es/~jcivera/papers/azagra_etal_iros17.pdf"> [**pdf**]  </A>
 
-- Pablo Azagra, Javier Civera, and Ana C. Murillo. **Finding Regions of Interest from Multimodal Human-Robot Interactions**, Proc. GLU 2017 International Workshop on Grounding Language Understanding. 2017.
+- Pablo Azagra, Javier Civera, and Ana C. Murillo. **Finding Regions of Interest from Multimodal Human-Robot Interactions**, Proc. GLU 2017 International Workshop on Grounding Language Understanding. 2017. <A HREF="http://www.speech.kth.se/glu2017/papers/GLU2017_paper_17.pdf"> [**pdf**]  </A>
 
 - Julien Pérolat, Florian Strub, Bilal Piot, Olivier Pietquin, **Learning Nash Equilibrium for General-Sum Markov Games from Batch Data**. arXiv preprint arXiv:1606.08718, Accepted at the International Conference on Artificial Intelligence and Statistics 2017 (AIStat 2017)
 
