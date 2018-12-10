@@ -81,6 +81,10 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 
 # Publications
 
+### 2019
+
+- Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019.
+
 ### 2018
 
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
