@@ -41,7 +41,7 @@ Partnership with
 The IGLU consortium is composed of 8 research teams, across 6 different
 countries. The project is a total effort of 325 person-months (PM).
 
-# Public Open Access Datasets, Softwares and Demonstrations
+# Public Open Access Datasets, Software and Demonstrations
 
 ### Databases
 
@@ -54,7 +54,7 @@ database</A>, <A HREF="https://arxiv.org/abs/1801.10214"> Documentation on arXiv
 A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
-### Softwares
+### Software
 
 <A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment </A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset </A>.
 
@@ -73,7 +73,7 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 - Reinforcement learning - **O. Pietquin, B. Piot** (CRIStAL, Lille1 & DeepMind), http://www.univ-lille1.fr/
 - Neurosciences and cognitive sciences - **J. Rouat** (NECOTIS, UdeS & UdeM), https://www.gel.usherbrooke.ca/necotis/, **R.K. Moore** (U. Sheffield)
 - Robotics - **P.Y. Oudeyer** (INRIA), **A.C. Murillo** (UNIZAR), **J. Civera** (UNIZAR)
-- Signal Processing (audition, vision) and machine learning - **J. Rouat** (UdeS & UdeM), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
+- Signal Processing (auditory, vision) and machine learning - **J. Rouat** (UdeS & UdeM), **S. Dupont** (U. Mons), **G. Salvi** (KTH)
 - Human-Machine interaction - **S. Dupont** (U. Mons)
 
 ## Students
