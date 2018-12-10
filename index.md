@@ -83,7 +83,7 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 
 ### 2019
 
-- Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. https://arxiv.org/abs/1804.02772
+- Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
 
