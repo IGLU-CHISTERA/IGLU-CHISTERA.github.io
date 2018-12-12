@@ -5,19 +5,19 @@
 
 1. [Objectives](#objectives)
 2. [Past events under the sponsorship of IGLU](#past-events-under-the-sponsorship-of-iglu)
-3. [Contributors](#contributors)
-4. [Public Open Access Datasets, Software and Demonstrations](#public-open-access-datasets-software-and-demonstrations)
-5. [Databases](#databases)
-6. [Software](#software)
-7. [Demonstrations and Applications](#demonstrations-and-applications)
-8. [Experts](#experts)
-9. [Students](#students)
-10. [Publications](#publications)
+3. [Public Open Access Datasets, Software and Demonstrations](#public-open-access-datasets-software-and-demonstrations)
+ - [Databases](#databases)
+ - [Software](#software)
+ - [Demonstrations and Applications](#demonstrations-and-applications)
+4. [Contributors](#contributors)
+ - [Experts](#experts)
+ - [Students](#students)
+5. [Publications](#publications)
  - [2019](#2019)
  - [2018](#2018)
  - [2017](#2017)
  - [2016](#2016)
-11. [Media](#media)
+6. [Media](#media)
 
 
 
@@ -56,11 +56,6 @@ Shared sponsorship with ISCA.
 Partnership with
 <a href="https://devine.gel.usherbrooke.ca/" target="_blank"> DEVINE </a> for a final integration on a humanoid robot.
 
-# Contributors
-
-The IGLU consortium is composed of 8 research teams, across 6 different
-countries. The project is a total effort of 325 person-months (PM).
-
 # Public Open Access Datasets, Software and Demonstrations
 
 ### Databases
@@ -86,6 +81,10 @@ Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://w
 
 Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devine.gel.usherbrooke.ca/"> DEVINE </A>).
 
+# Contributors
+
+The IGLU consortium is composed of 8 research teams, across 6 different
+countries. The project is a total effort of 325 person-months (PM).
 
 ## Experts
 
