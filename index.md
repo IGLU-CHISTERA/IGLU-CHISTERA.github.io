@@ -9,15 +9,16 @@
  - [Databases](#databases)
  - [Software](#software)
  - [Demonstrations and Applications](#demonstrations-and-applications)
-4. [Contributors](#contributors)
+4. [Partners inside IGLU and list of institutional partners](#partners-inside-iglu-and-list-of-institutional-partners) 
+5. [Contributors](#contributors)
  - [Experts](#experts)
  - [Students](#students)
-5. [Publications](#publications)
+6. [Publications](#publications)
  - [2019](#2019)
  - [2018](#2018)
  - [2017](#2017)
  - [2016](#2016)
-6. [Media](#media)
+7. [Media](#media)
 
 
 
