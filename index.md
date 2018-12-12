@@ -1,6 +1,27 @@
 <!-- <a href="http://www.chistera.eu/projects/iglu" target="_blank"> -->
 <!-- <img alt="IGLU" src="logoIGLU.jpg" width="304" /></a> -->
 
+# Menu
+
+1. [Objectives](#objectives)
+2. [Past events under the sponsorship of IGLU](#past-events-under-the-sponsorship-of-iglu)
+3. [Contributors](#contributors)
+4. [Public Open Access Datasets, Software and Demonstrations](#public-open-access-datasets-software-and-demonstrations)
+5. [Databases](#databases)
+6. [Software](#software)
+7. [Demonstrations and Applications](#demonstrations-and-applications)
+8. [Experts](#experts)
+9. [Students](#students)
+10. [Publications](#publications)
+ - [2019](#2019)
+ - [2018](#2018)
+ - [2017](#2017)
+ - [2016](#2016)
+11. [Media](#media)
+
+
+
+
 # Objectives
 
 Interactive Grounded Language Understanding is an ability that develops in young children through joint interaction with their caretakers and their physical environment. At this level, human language understanding could be referred as interpreting and expressing semantic concepts (e.g. objects, actions and relations) through what can be perceived (or inferred) from current context in the environment. Previous work in the field of artificial intelligence has failed to address the acquisition of such perceptually-grounded knowledge in virtual agents (avatars), mainly because of the lack of physical embodiment (ability to interact physically) and dialogue, communication skills (ability to interact verbally). We believe that robotic agents are more appropriate for this task, and that interaction is a so important aspect of human language learning and understanding that pragmatic knowledge (identifying or conveying intention) must be present to complement semantic knowledge. Through a developmental approach where knowledge grows in complexity while driven by multimodal experience and language interaction with a human, we propose an agent that will incorporate models of dialogues, human emotions and intentions as part of its decision-making process. This will lead anticipation and reaction not only based on its internal state (own goal and intention, perception of the environment), but also on the perceived state and intention of the human interactant. This will be possible through the development of advanced machine learning methods (combining developmental, deep and reinforcement learning) to handle large-scale multimodal inputs, besides leveraging state-of-the-art technological components involved in a language-based dialog system available within the consortium. Evaluations of learned skills and knowledge will be performed using an integrated architecture in a culinary use-case, and novel databases enabling research in grounded human language understanding will be released. IGLU will gather an interdisciplinary consortium composed of committed and experienced researchers in machine learning, neurosciences and cognitive sciences, developmental robotics, speech and language technologies, and multimodal/multimedia signal processing. We expect to have key impacts in the development of more interactive and adaptable systems sharing our environment in everyday life.
@@ -10,10 +31,9 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
  <A HREF="https://www.gel.usherbrooke.ca/rouat/">  https://www.gel.usherbrooke.ca/rouat/</A>.
 
 
-# Future events under the sponsorship of IGLU
-Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018 (Submitted to the NIPS organization, waiting for the answer)
-
 # Past events under the sponsorship of IGLU
+<A HREF="https://nips2018vigil.github.io/"> Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018 
+
 <A HREF="https://chistera-hlu.sciencesconf.org"> First Master Class on Human Language Understanding in the framework of the CHIST-ERA HLU call </A>, Paris, April 10-11th, 2018 <br>
 Shared sponsorship with CHIST-ERA, M2CR, ReGROUND, ATLANTIS.
 
