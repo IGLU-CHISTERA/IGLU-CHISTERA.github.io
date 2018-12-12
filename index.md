@@ -86,6 +86,9 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
+- Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018
+
+- Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018
 
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
 
@@ -100,6 +103,8 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="http
 - E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
 
 ### 2017
+- Delbrouck, J.B.; Dupont, S., **Modulating and attending the source image during encoding improves Multimodal Translation**, ViGiL NeurIPS workshop, 2018
+
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A. **HoME: a Household Multimodal Environment**, NIPS 2017's Visually-Grounded Interaction and Language Workshop, 2017
 
 - Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141. <A HREF="http://webdiis.unizar.es/~jcivera/papers/azagra_etal_iros17.pdf"> [**pdf**]  </A>
