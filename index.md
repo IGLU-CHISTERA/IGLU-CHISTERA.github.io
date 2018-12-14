@@ -106,6 +106,8 @@ countries. The project is a total effort of 325 person-months (PM).
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
+- Azagra, P.; Murillo A.C.; Lopes M.; Civera J.,**Incremental Object Model Learning from Multimodal Human-Robot Interactions**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/45.pdf"> [**pdf**]  </A>
+
 - Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018
 
 - Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018
