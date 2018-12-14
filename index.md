@@ -31,6 +31,7 @@ IGLU is part of the European CHIST-ERA network (http://www.chistera.eu/projects/
 The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, Canada, 
  <A HREF="https://www.gel.usherbrooke.ca/rouat/">  https://www.gel.usherbrooke.ca/rouat/</A>.
 
+[[Back to menu]](#menu)
 
 # Past events under the sponsorship of IGLU
 <A HREF="https://nips2018vigil.github.io/"> Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018 
@@ -46,6 +47,8 @@ Shared sponsorship with facebook research and google DeepMind.
 </A>, KTH Royal Institute of Technology, Stockholm, Sweden, Friday, August 25th, 2017 <br>
 Shared sponsorship with ISCA.
 
+[[Back to menu]](#menu)
+
 # Partners inside IGLU and list of institutional partners
 <CENTER>
 <a href="http://www.chistera.eu/projects/iglu" target="_blank">
@@ -56,6 +59,8 @@ Shared sponsorship with ISCA.
 
 Partnership with
 <a href="https://devine.gel.usherbrooke.ca/" target="_blank"> DEVINE </a> for a final integration on a humanoid robot.
+
+[[Back to menu]](#menu)
 
 # Public Open Access Datasets, Software and Demonstrations
 
@@ -82,6 +87,8 @@ Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://w
 
 Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devine.gel.usherbrooke.ca/"> DEVINE </A>).
 
+[[Back to menu]](#menu)
+
 # Contributors
 
 The IGLU consortium is composed of 8 research teams, across 6 different
@@ -99,6 +106,8 @@ countries. The project is a total effort of 325 person-months (PM).
 ## Students
 11 PhD & 3 Msc.A
 
+[[Back to menu]](#menu)
+
 # Publications
 
 ### 2019
@@ -108,9 +117,9 @@ countries. The project is a total effort of 325 person-months (PM).
 ### 2018
 - Azagra, P.; Murillo A.C.; Lopes M.; Civera J.,**Incremental Object Model Learning from Multimodal Human-Robot Interactions**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/45.pdf"> [**pdf**]  </A>
 
-- Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018
+- Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/15.pdf"> [**pdf**]  </A>
 
-- Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018
+- Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018 <A HREF="http://www.statmt.org/wmt18/WMT-2018.pdf#page=673"> [**pdf**]  </A>
 
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
 
@@ -176,6 +185,7 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - Cambra, A. B., Muñoz, A., Guerrero, J. J., & Murillo, A. C. **Dense Labeling with User Interaction: An Example for Depth-Of-Field Simulation**. British Machine Vision Conference (BMVC), 2016.
 
+[[Back to menu]](#menu)
 
 ## Media
 
@@ -184,3 +194,6 @@ countries. The project is a total effort of 325 person-months (PM).
 - 12 October 2017, <A HREF="http://www.lapresse.ca/techno/201710/12/01-5139764-intelligence-artificielle-ce-qui-mijote-dans-les-labos.php"> article in "La Presse" </A>, a French journal from Montréal 
 
 - October 2017, <A HREF="https://50ans.inria.fr/en/inria-celebrates-its-jubilee/"> French INRIA jubilee </A>, France (in preparation)
+
+[[Back to menu]](#menu)
+
