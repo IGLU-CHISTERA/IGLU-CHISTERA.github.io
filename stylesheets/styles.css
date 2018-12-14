@@ -325,7 +325,7 @@ footer {
 
 h1.page-heading {display: none;}
 header a.site-title:before {
-    content: url('../logoIGLU.jpg');
+    content: url('../logoIGLU_new.jpg');
 }
 header a.site-title {
   content: "";
