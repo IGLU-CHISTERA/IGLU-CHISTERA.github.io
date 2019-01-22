@@ -76,6 +76,7 @@ A second one for object learning and representation on a Baxter platform (<A HRE
 A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
 
 ### Software
+Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>). The task, undertaken by a robot, is the question answering game GuessWhat?!. The robot interacts with a human player who performs the role of the oracle. The oracle selects an object in a visual scene without disclosing it to the robot. Playing the role of the guesser, the robot asks questions to the person to deduce which object was selected. The guesser’s questions are generated using the player’s previous answers and visual information. Once the robot has a strong belief, it guesses the object chosen by the player and physically points to it in the scene.
 
 <A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment </A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset </A>.
 
@@ -83,9 +84,9 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 ### Demonstrations and Applications
 
-Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
+Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devineproject.github.io/abstract_devine.pdf"> Paper Abstract </A>)(<A HREF="https://www.youtube.com/watch?v=4hZenY6JE78"> Video </A>).
 
-Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>).
+Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
 
 [[Back to menu]](#menu)
 
