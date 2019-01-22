@@ -34,7 +34,7 @@ The coordinator is prof. J. Rouat, NECOTIS, Université de Sherbrooke, Québec, 
 [[Back to menu]](#menu)
 
 # Past events under the sponsorship of IGLU
-<A HREF="https://nips2018vigil.github.io/"> Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018 
+<A HREF="https://nips2018vigil.github.io/"> Second Visually-Grounded Interaction and Language (ViGIL), NIPS 2018 Workshop, Montreal, December 2018.
 
 <A HREF="https://chistera-hlu.sciencesconf.org"> First Master Class on Human Language Understanding in the framework of the CHIST-ERA HLU call </A>, Paris, April 10-11th, 2018 <br>
 Shared sponsorship with CHIST-ERA, M2CR, ReGROUND, ATLANTIS.
@@ -58,7 +58,7 @@ Shared sponsorship with ISCA.
 </CENTER>
 
 Partnership with
-<a href="https://devine.gel.usherbrooke.ca/" target="_blank"> DEVINE </a> for a final integration on a humanoid robot.
+<a href="https://devineproject.github.io//" target="_blank"> DEVINE </a> for a final integration on a humanoid robot.
 
 [[Back to menu]](#menu)
 
@@ -85,7 +85,7 @@ A third one for dialogue and a richer semantic with the new GuessWhat game  (<A 
 
 Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
 
-Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devine.gel.usherbrooke.ca/"> DEVINE </A>).
+Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>).
 
 [[Back to menu]](#menu)
 
