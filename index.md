@@ -124,6 +124,10 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/15.pdf"> [**pdf**]  </A>
 
+- Dumoulin, V.; Perez, E.; Schucher, N.; Strub, F.; Vries, H.; Courville,  A.; Bengio, Y., **Feature-wise transformations**. In Proceedings Distill, 2018 [**pdf**](https://distill.pub/2018/feature-wise-transformations/)  
+
+ - Strub  F.; Seurin, M.; Perez, E.; de Vries, H.; J. Mary; Preux, P.; Courville, A.; Pietquin, O., **Visual Reasoning with Multi-hop Feature Modulation** In Proceedings ECCV, 2018 [**pdf**](https://arxiv.org/pdf/1709.07871.pdf)
+
 - Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018 <A HREF="http://www.statmt.org/wmt18/WMT-2018.pdf#page=673"> [**pdf**]  </A>
 
 - Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
