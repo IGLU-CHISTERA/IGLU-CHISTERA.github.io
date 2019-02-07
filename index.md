@@ -116,6 +116,11 @@ countries. The project is a total effort of 325 person-months (PM).
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
+
+- Golemo F., **How to Train Your Robot - New Environments for Robotic Training and New Methods for Transferring Policies from the Simulator to the Real Robot**, PhD thesis, 2018. [[**pdf**]](https://hal.inria.fr/tel-01974203/document)
+
+- Golemo F.; Taiga AA.; Courville A.; Oudeyer PY., **Sim-to-Real Transfer with Neural-Augmented Robot Simulation**, In Conference on Robot Learning, 2018. [[**pdf**]](http://proceedings.mlr.press/v87/golemo18a/golemo18a.pdf)
+
 - Celotti, L.; Brodeur, S.; Rouat, J.,**Language coverage and generalization in RNN-based continuous sentence embeddings for interacting agents**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/3.pdf"> [**pdf**]  </A>
 
 - Abdelnour, J.; Salvi, G.; Rouat, J.; Civera J.,**CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/16.pdf"> [**pdf**]  </A>
