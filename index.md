@@ -84,7 +84,7 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="http
 
 ### Demonstrations and Applications
 
-Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devineproject.github.io/abstract_devine.pdf"> Paper Abstract </A>)(<A HREF="https://www.youtube.com/watch?v=4hZenY6JE78"> Video </A>).
+Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devineproject.github.io/abstract_devine.pdf"> Paper Abstract </A>)(<A HREF="https://www.youtube.com/watch?v=4hZenY6JE78"> Video </A>)  <A HREF="https://github.com/devineproject"> Computer Code and Software </A>.
 
 Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
 
