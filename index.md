@@ -66,14 +66,16 @@ Partnership with
 
 ### Databases
 
-We recorded 3 databases that cover 3 levels of knowledge types and
+We built 5 databases that cover 5 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
 A first one for environment representation and learning for a mobile platform
  (<A HREF="https://ieee-dataport.org/open-access/create-multimodal-dataset-unsupervised-learning-and-generative-modeling-sensory-data"> ROS Create
 database</A>, <A HREF="https://arxiv.org/abs/1801.10214"> Documentation on arXiv </A>);<BR>
 A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
-A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database</A>).
+A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database </A>); <BR>
+A fourth one for a larger variety in the audio inside the HoME environment (<A HREF="\href{https://ieee-dataport.org/open-access/audio-dataset-household-multimodal-environment-home"> Audio dataset for the HoME environment </A>). It is a collection of audio samples that we selected and processed from the <A HREF="https://freesound.org"> Freesound.org </A> collaborative database of Creative Commons Licensed sounds; <BR>
+A fifth one to simulate auditory scenes data for large neural networks training (<A HREF="\href{https://ieee-dataport.org/open-access/audio-dataset-household-multimodal-environment-home"> the CLEAR dataset </A>). It is a collection of audio scenes that we created through the CLEAR software.
 
 ### Software
 Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>). The task, undertaken by a robot, is the question answering game GuessWhat?!. The robot interacts with a human player who performs the role of the oracle. The oracle selects an object in a visual scene without disclosing it to the robot. Playing the role of the guesser, the robot asks questions to the person to deduce which object was selected. The guesser’s questions are generated using the player’s previous answers and visual information. Once the robot has a strong belief, it guesses the object chosen by the player and physically points to it in the scene.
@@ -81,6 +83,8 @@ Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="http
 <A HREF="https://home-platform.github.io"> HoME, a Household Multimodal Environment </A>, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment. It can integrate  the 45,000 diverse 3D house layouts based on the large-scale <A HREF="http://suncg.cs.princeton.edu"> SUNCG dataset </A>.
 
 <A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement </A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
+
+<A HREF="https://github.com/IGLU-CHISTERA/CLEAR-dataset-generation"> Generation code for the CLEAR dataset </A> (Compositional Language and Elementary Acoustic Reasoning)
 
 ### Demonstrations and Applications
 
@@ -123,7 +127,9 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - Celotti, L.; Brodeur, S.; Rouat, J.,**Language coverage and generalization in RNN-based continuous sentence embeddings for interacting agents**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/3.pdf"> [**pdf**]  </A>
 
-- Abdelnour, J.; Salvi, G.; Rouat, J.; Civera J.,**CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/16.pdf"> [**pdf**]  </A>
+- Abdelnour, J.; Salvi, G.; Rouat, J.,**CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/16.pdf"> [**pdf**]  </A>
+
+- Belgoum, Z.; Abdelnour, J.; Brodeur, S.; Rouat, J.,**Audio dataset for Household Multimodal Environment (HoME)**, IEEE Dataport, 2018, <A HREF="http://dx.doi.org/10.21227/w77r-4902"> [**doi**] </A>
 
 - Azagra, P.; Murillo A.C.; Lopes M.; Civera J.,**Incremental Object Model Learning from Multimodal Human-Robot Interactions**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/45.pdf"> [**pdf**]  </A>
 
