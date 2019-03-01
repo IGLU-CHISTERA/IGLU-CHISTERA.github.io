@@ -117,6 +117,8 @@ countries. The project is a total effort of 325 person-months (PM).
 
 ### 2019
 
+- Wood, S. U.; Rouat, J.,**Unsupervised Low Latency Speech Enhancement with RT-GCC-NMF**, IEEE Journal of Selected Topics In Signal Processing, 2019, under review, minor corrections.
+
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
