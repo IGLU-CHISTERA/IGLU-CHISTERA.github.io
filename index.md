@@ -151,9 +151,9 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - K. Stefanov, J. Beskow, G. Salvi, **Self-Supervised Vision-Based Detection of the Active Speaker as a Prerequisite for Socially-Aware Language Acquisition**, submitted to IEEE Transactions on Cognitive and Developmental Systems.
 
-- G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others' Actions**, accepted in IEEE Transactions on Cognitive and Developmental Systems.
+- G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others' Actions**, in IEEE Transactions on Cognitive and Developmental Systems.
 
-- E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Under submission at Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018)
+- E. Perez, F. Strub, H. Vries, V. Dumoulin, A. Courville **FiLM: Visual Reasoning with a General Conditioning Layer.** arXiv preprint arXiv:1709.07871. Association for the Advancement of Artificial Intelligence 2018 (AAAI 2018), oral presentation.
 
 ### 2017
 - Delbrouck, J.B.; Dupont, S., **Modulating and attending the source image during encoding improves Multimodal Translation**, ViGiL NeurIPS workshop, 2018
