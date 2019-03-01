@@ -117,6 +117,8 @@ countries. The project is a total effort of 325 person-months (PM).
 
 ### 2019
 
+- Abdelnour, J.; Salvi, G.; Rouat, J., **From Visual to Acoustic Question Answering**, arXiv:1902.11280v1, 2019.
+
 - Wood, S. U.; Rouat, J.,**Unsupervised Low Latency Speech Enhancement with RT-GCC-NMF**, IEEE Journal of Selected Topics In Signal Processing, 2019, under review, minor corrections.
 
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
@@ -136,6 +138,8 @@ countries. The project is a total effort of 325 person-months (PM).
 - Azagra, P.; Murillo A.C.; Lopes M.; Civera J.,**Incremental Object Model Learning from Multimodal Human-Robot Interactions**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/45.pdf"> [**pdf**]  </A>
 
 - Delbrouck, J.B.; Dupont, S., **Object-oriented Targets for Visual Navigation using Rich Semantic Representations**, ViGiL NeurIPS workshop, 2018 <A HREF="https://nips2018vigil.github.io/static/papers/accepted/15.pdf"> [**pdf**]  </A>
+
+- Abdelnour, J.; Salvi, G.; Rouat, J. **CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**,  arXiv:1811.10561v1, 2018
 
 - Dumoulin, V.; Perez, E.; Schucher, N.; Strub, F.; Vries, H.; Courville,  A.; Bengio, Y., **Feature-wise transformations**. In Proceedings Distill, 2018 [**pdf**](https://distill.pub/2018/feature-wise-transformations/)  
 
