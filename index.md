@@ -141,6 +141,8 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - Abdelnour, J.; Salvi, G.; Rouat, J. **CLEAR: A Dataset for Compositional Language and Elementary Acoustic Reasoning**,  arXiv:1811.10561v1, 2018
 
+- Delbrouck, J.B.; Dupont, S., **Bringing back simplicity and lightliness into neural image captioning**, arXiv:1810.06245v1, 2018.
+
 - Dumoulin, V.; Perez, E.; Schucher, N.; Strub, F.; Vries, H.; Courville,  A.; Bengio, Y., **Feature-wise transformations**. In Proceedings Distill, 2018 [**pdf**](https://distill.pub/2018/feature-wise-transformations/)  
 
  - Strub  F.; Seurin, M.; Perez, E.; de Vries, H.; J. Mary; Preux, P.; Courville, A.; Pietquin, O., **Visual Reasoning with Multi-hop Feature Modulation** In Proceedings ECCV, 2018 [**pdf**](https://arxiv.org/pdf/1709.07871.pdf)
