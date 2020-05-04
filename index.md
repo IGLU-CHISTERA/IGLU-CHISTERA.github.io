@@ -66,31 +66,38 @@ Partnership with
 
 ### Databases
 
-We built 5 databases that cover 5 levels of knowledge types and
+We built 6 databases that cover 6 levels of knowledge types and
 representations giving a gradation in semantic representation and levels of
  interactions and grounding:<BR>
-A first one for environment representation and learning for a mobile platform
+ 
+- A first one for environment representation and learning for a mobile platform
  (<A HREF="https://ieee-dataport.org/open-access/create-multimodal-dataset-unsupervised-learning-and-generative-modeling-sensory-data"> ROS Create
 database</A>, <A HREF="https://arxiv.org/abs/1801.10214"> Documentation on arXiv </A>);<BR>
-A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
-A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database </A>); <BR>
-A fourth one for a larger variety in the audio inside the HoME environment (<A HREF="https://ieee-dataport.org/open-access/audio-dataset-household-multimodal-environment-home"> Audio dataset for the HoME environment </A>). It is a collection of audio samples that we selected and processed from the <A HREF="https://freesound.org"> Freesound.org </A> collaborative database of Creative Commons Licensed sounds; <BR>
-A fifth one for acoustic reasoning and question answering (<A HREF="https://ieee-dataport.org/open-access/clear-dataset-compositional-language-and-elementary-acoustic-reasoning"> the CLEAR dataset </A>). It is composed of audio recordings and questions/answers about their content. The dataset was generated using the CLEAR software.
-
+ 
+- A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
+ 
+- A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database </A>); <BR>
+ 
+- A fourth one for a larger variety in the audio inside the HoME environment (<A HREF="https://ieee-dataport.org/open-access/audio-dataset-household-multimodal-environment-home"> Audio dataset for the HoME environment </A>). It is a collection of audio samples that we selected and processed from the <A HREF="https://freesound.org"> Freesound.org </A> collaborative database of Creative Commons Licensed sounds; <BR>
+ 
+- A fifth one for acoustic reasoning and question answering (<A HREF="https://ieee-dataport.org/open-access/clear-dataset-compositional-language-and-elementary-acoustic-reasoning"> the CLEAR dataset </A>). It is composed of audio recordings and questions/answers about their content. The dataset was generated using the CLEAR software. <BR>
+ 
+ - The last is an acoustical multichannel dataset composed of 11 event classes recorded at several realistic positions in two different rooms. The dataset comprises two types of sequences according to the number of events in the sequence. 2662 unilabel sequences and 2724 multilabel sequences are recorded corresponding to a total of 5.24 hours. (<A HREF="https://zenodo.org/record/3632377#.XjQQUuF7nC">The SECL-UMONS database </A>);
+ 
 ### Software
-Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>). The task, undertaken by a robot, is the question answering game GuessWhat?!. The robot interacts with a human player who performs the role of the oracle. The oracle selects an object in a visual scene without disclosing it to the robot. Playing the role of the guesser, the robot asks questions to the person to deduce which object was selected. The guesser’s questions are generated using the player’s previous answers and visual information. Once the robot has a strong belief, it guesses the object chosen by the player and physically points to it in the scene.
+- Cooperative Visually Grounded Dialogue Game with a Humanoid robot (<A HREF="https://devine.readthedocs.io/"> Documentation from the DEVINE team </A>)(<A HREF="https://github.com/devineproject/DEVINE"> Source code and Software from the DEVINE team </A>). The task, undertaken by a robot, is the question answering game GuessWhat?!. The robot interacts with a human player who performs the role of the oracle. The oracle selects an object in a visual scene without disclosing it to the robot. Playing the role of the guesser, the robot asks questions to the person to deduce which object was selected. The guesser’s questions are generated using the player’s previous answers and visual information. Once the robot has a strong belief, it guesses the object chosen by the player and physically points to it in the scene.
 
- HoME, a Household Multimodal Environment, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment.
+- HoME, a Household Multimodal Environment, has been designed to enable artificial agents to learn as humans do, in an interactive, multimodal, and richly contextualized setting. It provides support for vision, audio, semantics, physics and interaction with objects and other agents inside a 3D environment.
 
-<A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement </A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
+- <A HREF="https://github.com/seanwood/gcc-nmf"> Real-time GCC-NMF Blind Speech Separation and Enhancement </A> is a software that eases the audio interaction through the separation and enhancement of sound sources.
 
-<A HREF="https://github.com/IGLU-CHISTERA/CLEAR-dataset-generation"> Generation code for the CLEAR dataset </A> (Compositional Language and Elementary Acoustic Reasoning)
+- <A HREF="https://github.com/IGLU-CHISTERA/CLEAR-dataset-generation"> Generation code for the CLEAR dataset </A> (Compositional Language and Elementary Acoustic Reasoning)
 
 ### Demonstrations and Applications
 
-Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devineproject.github.io/abstract_devine.pdf"> Paper Abstract </A>)(<A HREF="https://www.youtube.com/watch?v=4hZenY6JE78"> Video </A>)  <A HREF="https://github.com/devineproject"> Computer Code and Software </A>.
+- Cooperative Visually Grounded Dialogue Game with a Humanoid robot, <A HREF="https://nips.cc/Conferences/2018/Schedule?showEvent=12165"> a NIPS 2018 Demonstration </A> (Partnership with <A HREF="https://devineproject.github.io/"> DEVINE </A>). (<A HREF="https://devineproject.github.io/abstract_devine.pdf"> Paper Abstract </A>)(<A HREF="https://www.youtube.com/watch?v=4hZenY6JE78"> Video </A>)  <A HREF="https://github.com/devineproject"> Computer Code and Software </A>.
 
-Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
+- Incremental Object Learning with few data on a Baxter robot:  <A HREF="https://www.youtube.com/watch?v=V_72tyBK8Go"> Demonstration on a Baxter Robot </A> (by <A HREF="https://sites.google.com/a/unizar.es/iglu_mhri/home"> UNIZAR</A>).
 
 [[Back to menu]](#menu)
 
@@ -115,11 +122,17 @@ countries. The project is a total effort of 325 person-months (PM).
 
 # Publications
 
+### 2020
+- Brousmiche, M.; Rouat, J.; Dupont S., **SECL-UMons Database for Sound Event Classification and Localization**, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 756-760. DOI: 10.1109/ICASSP40776.2020.9053298
+
+- Celotti, L.; Brodeur, S.; Rouat, J., **AriEL: Volume Coding for Sentence Generation**, [arxiv](https://arxiv.org/abs/2003.13600)
 ### 2019
 
-- Abdelnour, J.; Salvi, G.; Rouat, J., **From Visual to Acoustic Question Answering**, arXiv:1902.11280v1, 2019.
+- Brousmiche, M.; Rouat, J.; Dupont S., **Audio-Visual Fusion And Conditioning With Neural Networks For Event Recognition**, IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP), Pittsburgh, PA, USA, 2019, pp. 1-6, DOI: 10.1109/MLSP.2019.8918712
 
-- Wood, S. U.; Rouat, J.,**Unsupervised Low Latency Speech Enhancement with RT-GCC-NMF**, IEEE Journal of Selected Topics In Signal Processing, 2019, under review, minor corrections.
+- Abdelnour, J.; Salvi, G.; Rouat, J., **From Visual to Acoustic Question Answering**, [arxiv](https://arxiv.org/abs/1902.11280)
+
+- Wood, S. U.; Rouat, J.,**Unsupervised Low Latency Speech Enhancement with RT-GCC-NMF**, IEEE Journal of Selected Topics In Signal Processing 13 (2), 332-346, DOI: 10.1109/JSTSP.2019.2909193
 
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
