@@ -124,6 +124,12 @@ countries. The project is a total effort of 325 person-months (PM).
 
 ### 2020
 
+- Brousmiche, M.; Rouat, J.; Dupont S., **SECL-UMons Database for Sound Event Classification and Localization**, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 756-760. DOI: 10.1109/ICASSP40776.2020.9053298
+
+- Celotti, L.; Brodeur, S.; Rouat, J., **AriEL: Volume Coding for Sentence Generation**, [arxiv](https://arxiv.org/abs/2003.13600)
+
+### 2019
+
 - A. Selamtz, A. Castellana, G. Salvi, A. Carullo, A. Astolfi, **Effect of vowel context in cepstral and entropy analysis of pathological voices**, Biomedical Signal Processing and Control, Volume 47, January 2019, Pages 350-357, DOI: [10.1016/j.bspc.2018.08.021](https://doi.org/10.1016/j.bspc.2018.08.021)
 
 - G. Saponaro, L. Jamone, A. Bernardino, G. Salvi, **Beyond the Self: Using Grounded Affordances to Interpret and Describe Others’ Actions**,  IEEE Transactions on Cognitive and Developmental Systems, 2019, DOI: [10.1109/TCDS.2018.2882140](https://doi-org.focus.lib.kth.se/10.1109/TCDS.2018.2882140)
@@ -131,11 +137,6 @@ countries. The project is a total effort of 325 person-months (PM).
 - K. Stefanov, G. Salvi, Dimosthenis Kontogiorgos, Hedvig Kjellström, and J. Beskow, **Modeling of Human Visual Attention in Multiparty Open-World Dialogues**,  ACM Transactions on Human-Robot Interaction, 2019, No. 8, DOI: [10.1145/3323231](https://doi.org/10.1145/3323231)
 
 - K. Stefanov, J. Beskow, and G. Salvi, **Self-Supervised Vision-Based Detection of the Active Speaker as Support for Socially-Aware Language Acquisition**, IEEE Transactions on Cognitive and Developmental Systems, 2019.  DOI: [10.1109/TCDS.2019.2927941](https://doi-org.focus.lib.kth.se/10.1109/TCDS.2019.2927941) 
-
-- Brousmiche, M.; Rouat, J.; Dupont S., **SECL-UMons Database for Sound Event Classification and Localization**, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 756-760. DOI: 10.1109/ICASSP40776.2020.9053298
-
-- Celotti, L.; Brodeur, S.; Rouat, J., **AriEL: Volume Coding for Sentence Generation**, [arxiv](https://arxiv.org/abs/2003.13600)
-### 2019
 
 - Brousmiche, M.; Rouat, J.; Dupont S., **Audio-Visual Fusion And Conditioning With Neural Networks For Event Recognition**, IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP), Pittsburgh, PA, USA, 2019, pp. 1-6, DOI: 10.1109/MLSP.2019.8918712
 
