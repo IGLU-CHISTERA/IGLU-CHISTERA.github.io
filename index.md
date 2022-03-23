@@ -79,7 +79,7 @@ database</A>, <A HREF="https://arxiv.org/abs/1801.10214"> Documentation on arXiv
  
 - A second one for object learning and representation on a Baxter platform (<A HREF="http://robots.unizar.es/IGLUdataset/">Multimodal Human-Robot Interaction (MHRI) database</A>); <BR>
  
-- A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://guesswhat.ai/">The GuessWhat?! database </A>); <BR>
+- A third one for dialogue and a richer semantic with the new GuessWhat game  (<A HREF="https://github.com/GuessWhatGame/guesswhat/">The GuessWhat?! database and software </A>); <BR>
  
 - A fourth one for a larger variety in the audio inside the HoME environment (<A HREF="https://ieee-dataport.org/open-access/audio-dataset-household-multimodal-environment-home"> Audio dataset for the HoME environment </A>). It is a collection of audio samples that we selected and processed from the <A HREF="https://freesound.org"> Freesound.org </A> collaborative database of Creative Commons Licensed sounds; <BR>
  
