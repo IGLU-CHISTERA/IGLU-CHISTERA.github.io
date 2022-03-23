@@ -122,11 +122,25 @@ countries. The project is a total effort of 325 person-months (PM).
 
 # Publications
 
+### 2022
+- Brousmiche, M.; Rouat, J.; Dupont S., **Multimodal Attention Fusion Network for Audio-visual Event Recognition**, Information Fusion Journal, in Press.
+
+- Herranz-Celotti, L.; Rouat J., **Surrogate Gradients Design**, preprint, [arxiv] https://arxiv.org/abs/2202.00282
+ 
+- Celotti, L.; Brodeur, S.; Rouat, J., **AriEL: Volume Coding for Sentence Generation**, preprint submitted at ICLR 2022, OpenReview comments and evaluations (https://openreview.net/forum?id=qTTccuW4dja)
+ 
+### 2021
+- Abdelnour, J.; Rouat, J.; Salvi, G, **NAAQA: A Neural Architecture for Acoustic Question Answering**, submitted to IEEE Tr. on PAMI, preprint [arxiv] https://arxiv.org/abs/2106.06147
+ 
+- Brousmiche, M.; Rouat, J.; Dupont S., **Multi-level Attention Fusion Network for Audio-visual Event Recognition**, preprint, [arxiv] https://arxiv.org/abs/2106.06736
+ 
 ### 2020
 
 - Brousmiche, M.; Rouat, J.; Dupont S., **SECL-UMons Database for Sound Event Classification and Localization**, ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 756-760. DOI: 10.1109/ICASSP40776.2020.9053298
 
 - Celotti, L.; Brodeur, S.; Rouat, J., **AriEL: Volume Coding for Sentence Generation**, [arxiv](https://arxiv.org/abs/2003.13600)
+ 
+- M Brousmiche, S Dupont, J Rouat, **Intra and Inter-modality Interactions for Audio-visual Event Detection**, Proceedings of the 1st International Workshop on Human-centric Multimedia Analysis (HuMA'20), pp. 5–11, https://doi.org/10.1145/3422852.3423486
 
 ### 2019
 
@@ -147,7 +161,8 @@ countries. The project is a total effort of 325 person-months (PM).
 - Zhang, C.; Öztireli, C.; Mandt, S.; Salvi, G., **Active Mini-Batch Sampling using Repulsive Point Processes**, The AAAI Conference on Artificial Intelligence, 2019. [arxiv](https://arxiv.org/abs/1804.02772)
 
 ### 2018
-
+- Prince-Tremblay J.; Balafrej I.; Labelle F.; Martel-Denis F.; Matte E.; Chouinard-Beaupré J.; Létourneau A.; Mercier-Nicol A.; Brodeur S.; Ferland F.; Rouat J.; **A Cooperative Visually Grounded Dialogue Game with a Humanoid Robot**, NeurIPS 2018 demonstration, https://devineproject.github.io/abstract_devine.pdf
+ 
 - Golemo F., **How to Train Your Robot - New Environments for Robotic Training and New Methods for Transferring Policies from the Simulator to the Real Robot**, PhD thesis, 2018. [[**pdf**]](https://hal.inria.fr/tel-01974203/document)
 
 - Golemo F.; Taiga AA.; Courville A.; Oudeyer PY., **Sim-to-Real Transfer with Neural-Augmented Robot Simulation**, In Conference on Robot Learning, 2018. [[**pdf**]](http://proceedings.mlr.press/v87/golemo18a/golemo18a.pdf)
@@ -172,7 +187,7 @@ countries. The project is a total effort of 325 person-months (PM).
 
 - Delbrouck, J.B.; Dupont, S., **Umons submission for wmt18 multimodal translation task**. In Proceedings of the Third Conference on Machine Translation, Brussels, Belgium. Association for Computational Linguistics, 2018 <A HREF="http://www.statmt.org/wmt18/WMT-2018.pdf#page=673"> [**pdf**]  </A>
 
-- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, 2018
+- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A., **HoME: a Household Multimodal Environment**, ICLR 2018 Workshop Track, 6th International Conference on Learning Representations, https://openreview.net/forum?id=B1pJ3dkwG
 
 - Brodeur, S.; Carrier, S.; Rouat, J., **CREATE: Multimodal Dataset for Unsupervised Learning and Generative Modeling of Sensory Data from a Mobile Robot**, IEEE Dataport, 10.21227/H2M94J, 2018
 
@@ -187,7 +202,7 @@ countries. The project is a total effort of 325 person-months (PM).
 ### 2017
 - Delbrouck, J.B.; Dupont, S., **Modulating and attending the source image during encoding improves Multimodal Translation**, ViGiL NeurIPS workshop, 2018
 
-- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A. **HoME: a Household Multimodal Environment**, NIPS 2017's Visually-Grounded Interaction and Language Workshop, 2017
+- Brodeur, S.; Perez, E.; Anand, A.; Golemo, F.; Celotti, L.; Strub, F.; Rouat, J.; Larochelle, H. & Courville, A. **HoME: a Household Multimodal Environment**, NIPS 2017's Visually-Grounded Interaction and Language Workshop, 2017, https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/HoME_a_household.pdf, [arxiv] preprint https://arxiv.org/abs/1711.11017, 
 
 - Pablo Azagra, Florian Golemo, Yoan Mollard, Ana Cristina Murillo and Javier Civera, **A Multimodal Dataset for Object Model Learning from Natural Human-Robot Interaction**, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, 2017, pp. 6134-6141. <A HREF="http://webdiis.unizar.es/~jcivera/papers/azagra_etal_iros17.pdf"> [**pdf**]  </A>
 
