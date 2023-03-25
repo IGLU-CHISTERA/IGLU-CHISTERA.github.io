@@ -124,7 +124,9 @@ countries. The project is a total effort of 325 person-months (PM).
 [[Back to menu]](#menu)
 
 # Publications
-
+### 2023
+- Abdelnour, J.; Rouat, J.; Salvi, G., **NAAQA: A Neural Architecture for Acoustic Question Answering**, IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume: 45, Issue: 4, 01 April 2023 DOI: [https://doi.org/10.1109/TPAMI.2022.3194311](10.1109/TPAMI.2022.3194311)
+ 
 ### 2022
 - Brousmiche, M.; Rouat, J.; Dupont S., **Multimodal Attention Fusion Network for Audio-visual Event Recognition**, Information Fusion Journal, in Press.
 
